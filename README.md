@@ -46,7 +46,7 @@ This map shows the distribution of median household income
 across Census Tracts in Middlesex County.
 
 <p align="center">
-  <img src="1. Median_Household_Income_Map.png" width="700" alt="Median Household Income">
+  <img src="1.Median_Household_Income_Map.png" width="700" alt="Median Household Income">
 </p>
 
 ### Map 2. Public Parks and 0.5-Mile Buffers
