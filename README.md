@@ -46,7 +46,7 @@ This map shows the distribution of median household income
 across Census Tracts in Middlesex County.
 
 <p align="center">
-  <img src="images/01_income.png" width="700" alt="Median Household Income">
+  <img src="01_income.png" width="700" alt="Median Household Income">
 </p>
 
 ### Map 2. Public Parks and 0.5-Mile Buffers
@@ -55,7 +55,7 @@ This map shows selected public parks and their
 0.5-mile straight-line buffers.
 
 <p align="center">
-  <img src="images/02_park_buffer.png" width="700" alt="Public Parks and Buffers">
+  <img src="02_park_buffer.png" width="700" alt="Public Parks and Buffers">
 </p>
 
 ### Map 3. Share of Census Tract Area Within 0.5 Mile of a Park
@@ -64,7 +64,7 @@ This map shows the percentage of each Census Tract's area
 located within 0.5 mile of a public park.
 
 <p align="center">
-  <img src="images/03_tract_proximity.png" width="700" alt="Park Proximity by Census Tract">
+  <img src="03_tract_proximity.png" width="700" alt="Park Proximity by Census Tract">
 </p>
 
 ### Map 4. Walking Streets Within 10 Minutes of Public Parks
@@ -72,7 +72,7 @@ located within 0.5 mile of a public park.
 This map shows walking streets within 10 minutes of public parks.
 
 <p align="center">
-  <img src="images/04_walking_streets.png" width="700" alt="10-Minute Walking Streets">
+  <img src="04_walking_streets.png" width="700" alt="10-Minute Walking Streets">
 </p>
 
 ### Map 5. Income and Public Park Accessibility
@@ -81,7 +81,7 @@ This map compares neighborhood income levels and
 estimated 10-minute walking access to parks.
 
 <p align="center">
-  <img src="images/05_income_park_access.png" width="700" alt="Income and Park Accessibility">
+  <img src="05_income_park_access.png" width="700" alt="Income and Park Accessibility">
 </p>
 
 ---
