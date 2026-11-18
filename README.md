@@ -103,7 +103,9 @@ The default view displays **CARTO Positron, Median Household Income, and Public 
 
 Hovering over Census Tracts displays basic information. Clicking a tract provides additional data, including income, home value, park proximity, and estimated walking time.
 
-<iframe src='final_interactive_park_map_optimized.html' width = '500' height = '500' ></iframe>
+<p align="center">
+<iframe src='final_interactive_park_map_optimized.html' width = '700' height = '700' ></iframe>
+</p>
 
 You can also explore [this map as its own web page here](final_interactive_park_map_optimized.html)
 
