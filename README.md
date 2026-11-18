@@ -133,10 +133,10 @@ You can also explore [this map as its own web page here](final_interactive_park_
 
 ## 4. Data and Map Credits
 
-- [U.S. Census Bureau — American Community Survey](https://www.census.gov/programs-surveys/acs)
-- [U.S. Census Bureau — TIGER/Line Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html)
-- [NJDEP — Open Space GIS Data](https://services1.arcgis.com/QWdNfRs7lkPq4g4Q/ArcGIS/rest/services/Open_Space/FeatureServer/66)
-- [OpenStreetMap Contributors](https://www.openstreetmap.org/copyright)
+- U.S. Census Bureau — American Community Survey
+- U.S. Census Bureau — TIGER/Line Shapefiles
+- NJDEP — Open Space GIS Data
+- OpenStreetMap Contributors
 - CARTO Positron Basemap
 
 Maps created using Python, GeoPandas, Matplotlib, OSMnx, contextily, and Folium.
