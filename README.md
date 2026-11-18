@@ -73,7 +73,7 @@ Darker green indicates a higher percentage of land within the buffer, while ligh
 It also shows that some tracts have almost complete coverage, while others have relatively low coverage. This measure helps identify geographic differences in park proximity, but it represents the percentage of land area, not the percentage of residents with park access.
 
 <p align="center">
-  <img src="3. 10_Minute_Walking_Streets_CARTO_Map.png" width="700" alt="Park Proximity by Census Tract">
+  <img src="3. 10_Minute_Walking_Streets_Map.png" width="700" alt="Park Proximity by Census Tract">
 </p>
 
 ### Map 4. Walking Streets Within 10 Minutes of Public Parks
