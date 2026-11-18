@@ -78,20 +78,6 @@ It also shows that some tracts have almost complete coverage, while others have 
 
 ### Map 4. Walking Streets Within 10 Minutes of Public Parks
 
-This map shows streets that can be reached within an estimated 10-minute walk from selected public parks. I used the OpenStreetMap walking network through OSMnx and assumed a walking speed of 3 miles per hour.
-
-Blue lines represent reachable street segments, while green polygons represent public parks. Unlike the 0.5-mile buffer analysis, this map considers the connections and distances along the walking street network.
-
-The results show how street layout can influence park accessibility. Areas that appear close to parks on a straight-line map may have longer walking routes because of limited street connections or physical barriers.
-
-The analysis uses approximate park access points, and the blue lines represent reachable streets rather than every residential location within a 10-minute walk.
-
-<p align="center">
-  <img src="4. Share of Green space_Map.png" width="700" alt="10-Minute Walking Streets">
-</p>
-
-### Map 5. Income and Public Park Accessibility
-
 This map combines two variables: Census Tract median household income and estimated walking time to public parks. Census Tracts were divided into lower-income and at-or-above-median-income groups, then classified by whether the estimated walking time from their representative locations was within 10 minutes.
 
 Red represents lower-income tracts, and blue represents tracts with income at or above the study's median cutoff. Lighter shades indicate walking times of 10 minutes or less, while darker shades indicate more than 10 minutes. Gray indicates missing or highly uncertain income data or unavailable walking routes.
@@ -99,6 +85,21 @@ Red represents lower-income tracts, and blue represents tracts with income at or
 By combining these variables, the map allows us to compare park accessibility across different income groups and identify areas where income and walking access patterns overlap.
 
 However, walking time is estimated from a representative location within each Census Tract. It does not mean that every resident in the same tract has the same level of access.
+
+
+<p align="center">
+  <img src="4. Share of Green space_Map.png" width="700" alt="10-Minute Walking Streets">
+</p>
+
+### Map 5. Income and Public Park Accessibility
+
+This map shows streets that can be reached within an estimated 10-minute walk from selected public parks. I used the OpenStreetMap walking network through OSMnx and assumed a walking speed of 3 miles per hour.
+
+Blue lines represent reachable street segments, while green polygons represent public parks. Unlike the 0.5-mile buffer analysis, this map considers the connections and distances along the walking street network.
+
+The results show how street layout can influence park accessibility. Areas that appear close to parks on a straight-line map may have longer walking routes because of limited street connections or physical barriers.
+
+The analysis uses approximate park access points, and the blue lines represent reachable streets rather than every residential location within a 10-minute walk.
 
 <p align="center">
   <img src="5. final_static_map_3_income_vs_park_access.png" width="700" alt="Income and Park Accessibility">
