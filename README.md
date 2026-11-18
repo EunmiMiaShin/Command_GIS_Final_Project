@@ -42,25 +42,47 @@ The park data may not include every publicly accessible park. Park access points
 
 ### Map 1. Median Household Income by Census Tract
 
-This map shows median household income using the 2024 ACS 5-year estimates. Lighter colors represent lower income, and darker red colors represent higher income. Missing estimates are shown in gray, while estimates with CV ≥ 40% are shown with diagonal hatching.
+This map shows the distribution of median household income
+across Census Tracts in Middlesex County.
 
-![Median Household Income](images/01_income.png)
+<p align="center">
+  <img src="images/01_income.png" width="700" alt="Median Household Income">
+</p>
 
 ### Map 2. Public Parks and 0.5-Mile Buffers
 
-This map shows selected public park polygons and their 0.5-mile straight-line buffers. Dark green represents parks, and light green represents surrounding buffer areas. The buffers were created using GeoPandas and clipped to Middlesex County.
+This map shows selected public parks and their
+0.5-mile straight-line buffers.
 
-### Map 3. Share of Census Tract Area Within 0.5 Mile of a Public Park
+<p align="center">
+  <img src="images/02_park_buffer.png" width="700" alt="Public Parks and Buffers">
+</p>
 
-This map shows the percentage of each Census Tract's area within a 0.5-mile park buffer. The values were calculated using spatial overlay and area calculations. Darker green represents a higher percentage of land within the buffer.
+### Map 3. Share of Census Tract Area Within 0.5 Mile of a Park
+
+This map shows the percentage of each Census Tract's area
+located within 0.5 mile of a public park.
+
+<p align="center">
+  <img src="images/03_tract_proximity.png" width="700" alt="Park Proximity by Census Tract">
+</p>
 
 ### Map 4. Walking Streets Within 10 Minutes of Public Parks
 
-This map shows streets estimated to be within a 10-minute walk of selected public parks. I used OSMnx for shortest-path network analysis, assuming a walking speed of 3 mph. Blue lines represent reachable street segments, while green polygons represent public parks.
+This map shows walking streets within 10 minutes of public parks.
+
+<p align="center">
+  <img src="images/04_walking_streets.png" width="700" alt="10-Minute Walking Streets">
+</p>
 
 ### Map 5. Income and Public Park Accessibility
 
-This map combines Census Tract median household income with estimated walking time to public parks. Tracts were divided into two income groups using the median income of valid observations. Each group was further divided into walking times of 10 minutes or less and more than 10 minutes.
+This map compares neighborhood income levels and
+estimated 10-minute walking access to parks.
+
+<p align="center">
+  <img src="images/05_income_park_access.png" width="700" alt="Income and Park Accessibility">
+</p>
 
 ---
 
