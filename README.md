@@ -40,7 +40,7 @@ The park data may not include every publicly accessible park. Park access points
 
 ## 2. Static Maps
 
-### Map 1. Median Household Income by Census Tract
+### Map 1. Median Household Income by Census Tract 2024
 
 This map shows the distribution of median household income
 across Census Tracts in Middlesex County.
