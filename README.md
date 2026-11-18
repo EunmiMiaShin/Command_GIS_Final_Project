@@ -117,7 +117,6 @@ Users can switch between **CARTO Positron** and **OpenStreetMap** basemaps and s
 - Public Parks
 - 0.5-Mile Park Buffers
 - 10-Minute and 20-Minute Walking Streets
-- Estimated 20-Minute Walking Area
 
 The default view displays **CARTO Positron, Median Household Income, and Public Parks**.
 
