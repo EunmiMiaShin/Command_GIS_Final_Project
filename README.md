@@ -126,7 +126,7 @@ Hovering over Census Tracts displays basic information. Clicking a tract provide
 <iframe src='final_interactive_park_map_optimized.html' width = '700' height = '850' ></iframe>
 </p>
 
-You can also explore [this map as its own web page here](final_interactive_park_map_optimized.html)
+You can also explore this map as its own web page [here](final_interactive_park_map_optimized.html)
 
 ---
 
