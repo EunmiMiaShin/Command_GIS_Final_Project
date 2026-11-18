@@ -1,7 +1,7 @@
 # Park Accessibility and Neighborhood Income in Middlesex County, New Jersey
 
 **Eunmi (Mia) Shin**  
-Command-Line GIS | Rutgers University | Fall 2026
+Command Line GIS | Rutgers University | Fall 2026
 
 This project examines public park accessibility in Middlesex County, New Jersey. It uses Census data, public park boundaries, and walking street networks to compare park proximity, walking access, and neighborhood income.
 
